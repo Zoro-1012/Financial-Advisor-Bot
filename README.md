@@ -28,7 +28,7 @@ Assess Risk • Match Investments • Generate AI Explanations • Make Better F
 
 > **Live Preview:** *(Add deployment link here)*
 
-![Landing Page](docs/images/home.png)
+![Landing Page](docs/landing.png)
 
 ---
 
@@ -105,15 +105,12 @@ Detailed architecture and product specification are available in **docs/PRODUCT_
 
 ### Landing Page
 
-![Landing](docs/images/landing.png)
+![Landing](docs/landing.png)
 
 ### Questionnaire
 
-![Questionnaire](docs/images/questionnaire.png)
+![Questionnaire](docs/questionnaire.png)
 
-### Results Dashboard
-
-![Results](docs/images/results.png)
 
 ---
 
